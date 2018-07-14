@@ -24,7 +24,8 @@ http.createServer( function(req, res) {
 		".gif": "image/gif",
 		".png": "image/png",
         ".xls": "application/excel",
-        ".ico": "image/ico"
+        ".ico": "image/ico",
+        ".csv": "application/excel"
 	};
 
 	var validMimeType = true;
