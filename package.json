@@ -1,0 +1,14 @@
+{
+  "name": "hockeydatavisualization",
+  "version": "1.0.0",
+  "description": "View The Birthplace of NHL players",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Baker",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^27.0.0"
+  }
+}

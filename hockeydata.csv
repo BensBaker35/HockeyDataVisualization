@@ -1,0 +1,890 @@
+1989/11/21,Dorchester,MA,USA,USA,Hayes,Jimmy,RW,NJD
+1987/12/23,Helsinki,,FIN,FIN,Lehtera,Jori,C,PHI
+1990/06/07,Winnipeg,MB,CAN,CAN,Stone,Michael,D,CGY
+1982/04/18,Regina,SK,CAN,CAN,Hartnell,Scott,LW,NSH
+1981/03/24,Bolton,CT,USA,USA,Hainsey,Ron,D,TOR
+1979/09/26,Regina,SK,CAN,CAN,Kunitz,Chris,LW,TBL
+1990/02/06,Brantford,ON,CAN,CAN,Henrique,Adam,C,"NJD, ANA"
+1980/09/26,San Francisco,CA,USA,USA,Orpik,Brooks,D,WSH
+1995/03/30,SANDY,UT,USA,USA,Brickley,Daniel,D,LAK
+1991/02/22,Golden,BC,CAN,CAN,McKenzie,Curtis,LW,DAL
+1993/06/08,Dubuque,IA,USA,USA,Poolman,Tucker,D,WPG
+1981/10/04,Cobourg,ON,CAN,CAN,Williams,Justin,RW,CAR
+1981/01/12,Stockholm,,SWE,SWE,Kronwall,Niklas,D,DET
+1990/05/30,Marshfield,MA,USA,USA,Warsofsky,David,D,COL
+1988/08/05,Winnipeg,MB,CAN,CAN,Weise,Dale,RW,PHI
+1990/07/03,Edina,MN,USA,USA,Lee,Anders,LW,NYI
+1990/06/07,Chatham,ON,CAN,CAN,Brodie,TJ,D,CGY
+1989/09/01,Halmstad,,SWE,SWE,Nyquist,Gustav,RW,DET
+1990/04/20,Abbotsford,BC,CAN,CAN,Grant,Derek,C,ANA
+1989/12/24,Brandon,MB,CAN,CAN,Calvert,Matt,LW,CBJ
+1981/03/05,Minneapolis,MN,USA,USA,Martin,Paul,D,SJS
+1990/06/20,Sterling Heights,MI,USA,USA,Pateryn,Greg,D,DAL
+1984/10/29,Thunder Bay,ON,CAN,CAN,Staal,Eric,C,MIN
+1984/01/19,Vienna,,AUT,AUT,Vanek,Thomas,LW,"VAN, CBJ"
+1985/01/21,Madison,WI,USA,USA,Suter,Ryan,D,MIN
+1985/02/27,Shaunavon,SK,CAN,CAN,Coburn,Braydon,D,TBL
+1985/04/10,Edmonton,AB,CAN,CAN,Phaneuf,Dion,D,"OTT, LAK"
+1985/01/01,London,ON,CAN,CAN,Carter,Jeff,C,LAK
+1984/11/04,Ithaca,NY,USA,USA,Brown,Dustin,RW,LAK
+1985/04/20,Richmond,BC,CAN,CAN,Seabrook,Brent,D,CHI
+1985/03/31,Quebec City,QC,CAN,CAN,Bernier,Steve,RW,NYI
+1984/07/28,Minneapolis,MN,USA,USA,Parise,Zach,LW,MIN
+1985/09/07,Winkler,MB,CAN,CAN,Fehr,Eric,C,"TOR, SJS"
+1985/05/10,Regina,SK,CAN,CAN,Getzlaf,Ryan,C,ANA
+1989/05/08,Windsor,ON,CAN,CAN,Martin,Matt,LW,TOR
+1984/08/31,Livonia,MI,USA,USA,Kesler,Ryan,C,ANA
+1984/12/18,Hingham,MA,USA,USA,Boyle,Brian,C,NJD
+1989/11/29,Edmonton,AB,CAN,CAN,Spurgeon,Jared,D,MIN
+1990/03/23,Montreal,QC,CAN,CAN,Barberio,Mark,D,COL
+1984/05/01,Calgary,AB,CAN,USA,Eaves,Patrick,RW,ANA
+1980/08/03,Thornhill,ON,CAN,CAN,Moore,Dominic,C,TOR
+1985/07/17,Gothenburg,,SWE,SWE,Eriksson,Loui,LW,VAN
+1990/05/27,Stockholm,,SWE,SWE,Kruger,Marcus,C,CAR
+1997/10/30,Phoenix,AZ,USA,USA,Thompson,Tage,C,STL
+1988/08/24,Maple Ridge,BC,CAN,CAN,Hunt,Brad,D,VGK
+1990/03/25,Provost,AB,CAN,CAN,Bouma,Lance,LW,CHI
+1985/07/24,Ancienne-Lorette,QC,CAN,CAN,Bergeron,Patrice,C,BOS
+1996/10/27,Malmö,,SWE,SWE,Andersson,Rasmus,D,CGY
+1990/06/15,Mississauga,ON,CAN,CAN,Rinaldo,Zac,LW/C,ARI
+1985/08/14,Sicamous,BC,CAN,CAN,Weber,Shea,D,MTL
+1988/04/12,Evanston,IL,USA,USA,Wingels,Tommy,RW/C,"CHI, BOS"
+1996/03/29,Elkhorn,MB,CAN,CAN,Sanheim,Travis,D,PHI
+1988/07/26,Traverse City,MI,USA,USA,Redmond,Zach,D,BUF
+1991/04/12,Livonia,MI,USA,USA,Krug,Torey,D,BOS
+1994/07/29,Moscow,,RUS,RUS,Mironov,Andrei,D,COL
+1997/01/18,Olten,,CHE,CHE,Malgin,Denis,C,FLA
+1988/06/04,Pittsburgh,PA,USA,USA,Bartkowski,Matt,D,CGY
+1995/03/17,Quebec City,QC,CAN,CAN,Hayes,Jimmy,RW,NJD
+1984/05/01,Minneapolis,MN,USA,USA,Lehtera,Jori,C,PHI
+1981/06/17,Blaine,MN,USA,USA,Stone,Michael,D,CGY
+1990/07/02,Burnsville,MN,USA,USA,Hartnell,Scott,LW,NSH
+1990/04/23,Minneapolis,MN,USA,USA,Hainsey,Ron,D,TOR
+1994/08/08,Prague,,CZE,CZE,Kunitz,Chris,LW,TBL
+1996/04/02,Kosice,,SVK,SVK,Henrique,Adam,C,"NJD, ANA"
+1989/04/28,Grand Rapids,MI,USA,USA,Orpik,Brooks,D,WSH
+1997/09/10,Denver,CO,USA,USA,Brickley,Daniel,D,LAK
+1991/12/15,Saint-Narcisse,QC,CAN,CAN,McKenzie,Curtis,LW,DAL
+1996/07/10,Chaska,MN,USA,USA,Poolman,Tucker,D,WPG
+1996/11/28,Brandon,MB,CAN,CAN,Williams,Justin,RW,CAR
+1987/03/17,Cherry Hill,NJ,USA,USA,Kronwall,Niklas,D,DET
+1993/09/27,Regina,SK,CAN,CAN,Warsofsky,David,D,COL
+1994/02/12,Milwaukee,WI,USA,USA,Weise,Dale,RW,PHI
+1994/03/09,Vancouver,BC,CAN,CAN,Lee,Anders,LW,NYI
+1994/01/20,Helsingborg,,SWE,SWE,Brodie,TJ,D,CGY
+1993/10/06,Nizhnekamsk,,RUS,RUS,Nyquist,Gustav,RW,DET
+1994/07/25,Regina,SK,CAN,CAN,Grant,Derek,C,ANA
+1993/09/23,Stockholm,,SWE,SWE,Calvert,Matt,LW,CBJ
+1993/10/09,Toronto,ON,CAN,CAN,Martin,Paul,D,SJS
+1987/07/26,Victoria,BC,CAN,CAN,Pateryn,Greg,D,DAL
+1996/10/10,Haapavesi,,FIN,FIN,Staal,Eric,C,MIN
+1985/08/12,Kitchener,ON,CAN,CAN,Vanek,Thomas,LW,"VAN, CBJ"
+1994/03/26,Lakeville,MN,USA,USA,Suter,Ryan,D,MIN
+1994/02/23,Chicago,IL,USA,USA,Coburn,Braydon,D,TBL
+1992/08/10,Kitchener,ON,CAN,CAN,Phaneuf,Dion,D,"OTT, LAK"
+1994/05/30,Oakville,ON,CAN,CAN,Carter,Jeff,C,LAK
+1994/09/13,Hamilton,ON,CAN,CAN,Brown,Dustin,RW,LAK
+1994/08/22,Jyväskylä,,FIN,FIN,Seabrook,Brent,D,CHI
+1994/02/27,Pointe-Claire,QC,CAN,CAN,Bernier,Steve,RW,NYI
+1993/10/08,Madison,WI,USA,USA,Parise,Zach,LW,MIN
+1994/01/05,Riga,,LVA,LVA,Fehr,Eric,C,"TOR, SJS"
+1993/12/21,Ottawa,ON,CAN,CAN,Getzlaf,Ryan,C,ANA
+1994/03/29,Toronto,ON,CAN,CAN,Martin,Matt,LW,TOR
+1993/11/12,Praha,,CZE,CZE,Kesler,Ryan,C,ANA
+1994/09/11,Helsinki,,FIN,FIN,Boyle,Brian,C,NJD
+1994/01/16,Estevan,SK,CAN,CAN,Spurgeon,Jared,D,MIN
+1994/02/26,Rochester,MI,USA,USA,Barberio,Mark,D,COL
+1994/02/18,Winchester,ON,CAN,CAN,Eaves,Patrick,RW,ANA
+1994/08/13,Ostervala,,SWE,SWE,Moore,Dominic,C,TOR
+1994/01/09,Vitkov,,CZE,CZE,Eriksson,Loui,LW,VAN
+1994/05/15,Ann Arbor,MI,USA,USA,Kruger,Marcus,C,CAR
+1994/01/05,Charlestown,MA,USA,USA,Thompson,Tage,C,STL
+1993/05/12,St. Albert,AB,CAN,CAN,Hunt,Brad,D,VGK
+1994/05/19,Winnipeg,MB,CAN,CAN,Bouma,Lance,LW,CHI
+1994/03/23,Boden,,SWE,SWE,Bergeron,Patrice,C,BOS
+1985/02/04,Belleville,ON,CAN,CAN,Andersson,Rasmus,D,CGY
+1994/05/23,Vantaa,,FIN,FIN,Rinaldo,Zac,LW/C,ARI
+1985/06/21,Ottawa,ON,CAN,CAN,Weber,Shea,D,MTL
+1994/04/22,Saskatoon,SK,CAN,CAN,Wingels,Tommy,RW/C,"CHI, BOS"
+1993/04/20,Pembroke Pines,FL,USA,USA,Sanheim,Travis,D,PHI
+1994/07/19,Ajax,ON,CAN,CAN,Redmond,Zach,D,BUF
+1994/08/13,Surrey,BC,CAN,CAN,Krug,Torey,D,BOS
+1994/08/16,Toronto,ON,CAN,CAN,Mironov,Andrei,D,COL
+1993/05/26,Boston,MA,USA,USA,Malgin,Denis,C,FLA
+1984/10/05,Anchorage,AK,USA,USA,Bartkowski,Matt,D,CGY
+1992/07/25,Brandon,MB,CAN,CAN,Hayes,Jimmy,RW,NJD
+1994/01/23,Syracuse,NY,USA,USA,Lehtera,Jori,C,PHI
+1994/08/07,Melville,SK,CAN,CAN,Stone,Michael,D,CGY
+1993/10/05,Pelhrimov,,CZE,CZE,Hartnell,Scott,LW,NSH
+1993/11/05,North Vancouver,BC,CAN,CAN,Hainsey,Ron,D,TOR
+1993/10/12,Eau Claire,WI,USA,USA,Kunitz,Chris,LW,TBL
+1989/11/24,Kitchener,ON,CAN,CAN,Henrique,Adam,C,"NJD, ANA"
+1994/02/02,Fergus,ON,CAN,CAN,Orpik,Brooks,D,WSH
+1992/04/20,Swan River,MB,CAN,CAN,Brickley,Daniel,D,LAK
+1984/07/11,Plover,WI,USA,USA,McKenzie,Curtis,LW,DAL
+1994/04/13,Orland Park,IL,USA,USA,Poolman,Tucker,D,WPG
+1984/05/25,St. Paul,AB,CAN,CAN,Williams,Justin,RW,CAR
+1994/06/23,Alma,QC,CAN,CAN,Kronwall,Niklas,D,DET
+1994/03/09,Duluth,MN,USA,USA,Warsofsky,David,D,COL
+1994/07/04,Stouffville,ON,CAN,CAN,Weise,Dale,RW,PHI
+1994/02/15,Saskatoon,SK,CAN,CAN,Lee,Anders,LW,NYI
+1994/05/01,Denver,CO,USA,USA,Brodie,TJ,D,CGY
+1994/08/06,London,ON,CAN,CAN,Nyquist,Gustav,RW,DET
+1979/09/15,Aneroid,SK,CAN,CAN,Grant,Derek,C,ANA
+1994/04/16,Toronto,ON,CAN,CAN,Calvert,Matt,LW,CBJ
+1994/01/06,Edmonton,AB,CAN,CAN,Martin,Paul,D,SJS
+1994/10/06,Omaha,NE,USA,USA,Pateryn,Greg,D,DAL
+1993/05/20,Greenfield Park,QC,CAN,CAN,Staal,Eric,C,MIN
+1984/11/05,Nordingra,,SWE,SWE,Vanek,Thomas,LW,"VAN, CBJ"
+1993/08/13,Gaspe,QC,CAN,CAN,Suter,Ryan,D,MIN
+1985/03/27,Roseau,MN,USA,USA,Coburn,Braydon,D,TBL
+1992/03/14,Nynashamn,,SWE,SWE,Phaneuf,Dion,D,"OTT, LAK"
+1985/10/12,Malmö,,SWE,SWE,Carter,Jeff,C,LAK
+1994/01/30,Berlin,,DEU,USA,Brown,Dustin,RW,LAK
+1992/09/06,Grand Forks,ND,USA,USA,Seabrook,Brent,D,CHI
+1987/01/20,Winnipeg,MB,CAN,CAN,Bernier,Steve,RW,NYI
+1994/04/03,Chicago,IL,USA,USA,Parise,Zach,LW,MIN
+1983/11/01,North York,ON,CAN,CAN,Fehr,Eric,C,"TOR, SJS"
+1983/11/29,Regina,SK,CAN,CAN,Getzlaf,Ryan,C,ANA
+1996/05/31,Stratford,ON,CAN,CAN,Martin,Matt,LW,TOR
+1982/07/20,St. Agapit,QC,CAN,CAN,Kesler,Ryan,C,ANA
+1984/11/24,Detroit,MI,USA,USA,Boyle,Brian,C,NJD
+1994/04/05,Fribourg,,CHE,CHE,Spurgeon,Jared,D,MIN
+1994/03/24,Cambridge,ON,CAN,CAN,Barberio,Mark,D,COL
+1994/07/18,Markham,ON,CAN,CAN,Eaves,Patrick,RW,ANA
+1994/01/14,Toronto,ON,CAN,CAN,Moore,Dominic,C,TOR
+1993/04/20,Brockville,ON,CAN,CAN,Eriksson,Loui,LW,VAN
+1994/08/11,Vancouver,BC,CAN,CAN,Kruger,Marcus,C,CAR
+1993/03/21,Zurich,,CHE,CHE,Thompson,Tage,C,STL
+1988/09/24,Ann Arbor,MI,USA,USA,Hunt,Brad,D,VGK
+1984/03/02,Karlskrona,,SWE,SWE,Bouma,Lance,LW,CHI
+1992/12/10,Plantation,FL,USA,USA,Bergeron,Patrice,C,BOS
+1993/03/29,St. Louis,MO,USA,USA,Andersson,Rasmus,D,CGY
+1994/08/06,Gothenburg,,SWE,SWE,Rinaldo,Zac,LW/C,ARI
+1993/06/17,Rumson,NJ,USA,USA,Weber,Shea,D,MTL
+1986/04/29,Anchorage,AK,USA,USA,Wingels,Tommy,RW/C,"CHI, BOS"
+1976/11/02,Virginia,MN,USA,USA,Sanheim,Travis,D,PHI
+1994/01/11,Lewisville,TX,USA,USA,Redmond,Zach,D,BUF
+1993/04/19,Chambersburg,PA,USA,USA,Krug,Torey,D,BOS
+1994/07/29,Halifax,NS,CAN,CAN,Mironov,Andrei,D,COL
+1993/03/29,Greenwich,CT,USA,USA,Malgin,Denis,C,FLA
+1994/03/25,Sauble Beach,ON,CAN,CAN,Bartkowski,Matt,D,CGY
+1995/06/06,Karlstad,,SWE,SWE,Hayes,Jimmy,RW,NJD
+1991/11/28,Plano,TX,USA,USA,Lehtera,Jori,C,PHI
+1994/05/27,Flin Flon,MB,CAN,CAN,Stone,Michael,D,CGY
+1992/10/05,Glace Bay,NS,CAN,CAN,Hartnell,Scott,LW,NSH
+1984/03/01,Winnipeg,MB,CAN,SWE,Hainsey,Ron,D,TOR
+1994/02/02,Vaxjo,,SWE,SWE,Kunitz,Chris,LW,TBL
+1997/06/26,Regina,SK,CAN,CAN,Henrique,Adam,C,"NJD, ANA"
+1983/10/03,Toronto,ON,CAN,CAN,Orpik,Brooks,D,WSH
+1989/07/12,Ottawa,ON,CAN,CAN,Brickley,Daniel,D,LAK
+1986/06/08,Bojnice,,SVK,SVK,McKenzie,Curtis,LW,DAL
+1997/04/02,Surrey,BC,CAN,CAN,Poolman,Tucker,D,WPG
+1990/02/01,Fort Lauderdale,FL,USA,USA,Williams,Justin,RW,CAR
+1990/02/23,Montreal,QC,CAN,CAN,Kronwall,Niklas,D,DET
+1980/09/26,Ornskoldsvik,,SWE,SWE,Warsofsky,David,D,COL
+1980/09/26,Ornskoldsvik,,SWE,SWE,Weise,Dale,RW,PHI
+1986/03/19,Regina,SK,CAN,CAN,Lee,Anders,LW,NYI
+1993/05/26,Innisfil,ON,CAN,CAN,Brodie,TJ,D,CGY
+1996/04/04,Toronto,ON,CAN,CAN,Nyquist,Gustav,RW,DET
+1991/08/20,Grande Prairie,AB,CAN,CAN,Grant,Derek,C,ANA
+1986/09/14,Laurier-Station,QC,CAN,CAN,Calvert,Matt,LW,CBJ
+1997/06/08,Sorel-Tracy,QC,CAN,CAN,Martin,Paul,D,SJS
+1985/03/09,Barrie,ON,CAN,CAN,Pateryn,Greg,D,DAL
+1984/01/19,Edmonton,AB,CAN,CAN,Staal,Eric,C,MIN
+1990/09/29,Lakeville,MN,USA,USA,Vanek,Thomas,LW,"VAN, CBJ"
+1990/10/06,Landskrona,,SWE,SWE,Suter,Ryan,D,MIN
+1991/02/01,Smithtown,NY,USA,USA,Coburn,Braydon,D,TBL
+1992/11/01,Geneva,IL,USA,USA,Phaneuf,Dion,D,"OTT, LAK"
+1991/08/08,Trail,BC,CAN,CAN,Carter,Jeff,C,LAK
+1991/02/07,Clinton,ON,CAN,CAN,Brown,Dustin,RW,LAK
+1984/08/14,Kelowna,BC,CAN,CAN,Seabrook,Brent,D,CHI
+1991/01/13,Ayr,ON,CAN,CAN,Bernier,Steve,RW,NYI
+1990/10/01,Montreal,QC,CAN,CAN,Parise,Zach,LW,MIN
+1990/10/13,Gävle,,SWE,SWE,Fehr,Eric,C,"TOR, SJS"
+1990/11/16,Merrimack,NH,USA,USA,Getzlaf,Ryan,C,ANA
+1990/09/20,Mississauga,ON,CAN,CAN,Martin,Matt,LW,TOR
+1990/03/07,Detroit,MI,USA,USA,Kesler,Ryan,C,ANA
+1982/02/14,Trencin,,SVK,SVK,Boyle,Brian,C,NJD
+1991/08/02,Vancouver,BC,CAN,CAN,Spurgeon,Jared,D,MIN
+1991/08/22,Saskatoon,SK,CAN,CAN,Barberio,Mark,D,COL
+1989/06/05,Riverside,CT,USA,USA,Eaves,Patrick,RW,ANA
+1992/07/18,Wisconsin Rapids,WI,USA,USA,Moore,Dominic,C,TOR
+1991/04/12,Norrkoping,,SWE,SWE,Eriksson,Loui,LW,VAN
+1991/01/03,Hamilton,ON,CAN,CAN,Kruger,Marcus,C,CAR
+1991/05/09,Carp,ON,CAN,CAN,Thompson,Tage,C,STL
+1991/01/24,Windsor,ON,CAN,CAN,Hunt,Brad,D,VGK
+1995/08/02,Zilina,,SVK,SVK,Bouma,Lance,LW,CHI
+1995/12/12,Brooklyn,NY,USA,USA,Bergeron,Patrice,C,BOS
+1991/03/20,Eden Prairie,MN,USA,USA,Andersson,Rasmus,D,CGY
+1985/05/16,Peterborough,ON,CAN,CAN,Rinaldo,Zac,LW/C,ARI
+1991/04/30,Boxford,MA,USA,USA,Weber,Shea,D,MTL
+1991/03/02,Stockholm,,SWE,SWE,Wingels,Tommy,RW/C,"CHI, BOS"
+1990/11/19,Winnetka,IL,USA,USA,Sanheim,Travis,D,PHI
+1991/01/21,Davidson,SK,CAN,CAN,Redmond,Zach,D,BUF
+1991/04/01,Toronto,ON,CAN,CAN,Krug,Torey,D,BOS
+1989/05/10,Grand Prairie,AB,CAN,CAN,Mironov,Andrei,D,COL
+1990/12/01,Ilava,,SVK,SVK,Malgin,Denis,C,FLA
+1993/04/14,Kauniainen,,FIN,FIN,Bartkowski,Matt,D,CGY
+1993/05/21,Canton,MA,USA,USA,Hayes,Jimmy,RW,NJD
+1990/05/07,San Diego,CA,USA,USA,Lehtera,Jori,C,PHI
+1991/12/31,Toronto,ON,CAN,CAN,Stone,Michael,D,CGY
+1991/07/23,Novokuznetsk,,RUS,RUS,Hartnell,Scott,LW,NSH
+1988/09/24,Boston,MA,USA,USA,Hainsey,Ron,D,TOR
+1991/04/10,Toronto,ON,CAN,CAN,Kunitz,Chris,LW,TBL
+1991/09/06,Biddeford,ME,USA,USA,Henrique,Adam,C,"NJD, ANA"
+1991/02/07,Martin,,SVK,SVK,Orpik,Brooks,D,WSH
+1990/04/14,Holland,MI,USA,USA,Brickley,Daniel,D,LAK
+1997/12/11,Scottsdale,AZ,USA,USA,McKenzie,Curtis,LW,DAL
+1991/08/10,Buffalo,NY,USA,CAN,Poolman,Tucker,D,WPG
+1997/09/17,San Ramon,CA,USA,USA,Williams,Justin,RW,CAR
+1991/01/16,Haliburton,ON,CAN,CAN,Kronwall,Niklas,D,DET
+1991/05/14,Burlington,ON,CAN,CAN,Warsofsky,David,D,COL
+1989/09/05,Madison,WI,USA,USA,Weise,Dale,RW,PHI
+1990/01/07,St. Louis,MO,USA,USA,Lee,Anders,LW,NYI
+1997/12/21,Long Beach,NY,USA,USA,Brodie,TJ,D,CGY
+1991/02/27,Toronto,ON,CAN,CAN,Nyquist,Gustav,RW,DET
+1990/10/22,St. Hyacinthe,QC,CAN,CAN,Grant,Derek,C,ANA
+1991/02/22,LaSalle,QC,CAN,CAN,Calvert,Matt,LW,CBJ
+1991/05/24,Winnipeg,MB,CAN,CAN,Martin,Paul,D,SJS
+1997/12/18,Farmington Hills,MI,USA,USA,Pateryn,Greg,D,DAL
+1988/12/01,Villach,,AUT,AUT,Staal,Eric,C,MIN
+1998/04/19,Tampere,,FIN,FIN,Vanek,Thomas,LW,"VAN, CBJ"
+1990/02/23,Edmonton,AB,CAN,CAN,Suter,Ryan,D,MIN
+1998/07/29,Chesterfield,MO,USA,USA,Coburn,Braydon,D,TBL
+1998/05/07,Alvkarleby,,SWE,FIN,Phaneuf,Dion,D,"OTT, LAK"
+1977/03/18,Trencin,,SVK,SVK,Carter,Jeff,C,LAK
+1990/10/06,Ville Degelis,QC,CAN,CAN,Brown,Dustin,RW,LAK
+1992/03/20,South St.Paul,MN,USA,USA,Seabrook,Brent,D,CHI
+1990/07/22,Canton,NY,USA,USA,Bernier,Steve,RW,NYI
+1990/09/23,Rimouski,QC,CAN,CAN,Parise,Zach,LW,MIN
+1998/03/05,Raleigh,NC,USA,USA,Fehr,Eric,C,"TOR, SJS"
+1995/03/14,Molnlycke,,SWE,SWE,Getzlaf,Ryan,C,ANA
+1998/03/14,St. Albert,AB,CAN,CAN,Martin,Matt,LW,TOR
+1998/05/25,Oulunsalo,,FIN,FIN,Kesler,Ryan,C,ANA
+1991/03/12,Winkler,MB,CAN,CAN,Boyle,Brian,C,NJD
+1991/05/09,Hamilton,ON,CAN,CAN,Spurgeon,Jared,D,MIN
+1998/06/07,Woodbridge,ON,CAN,CAN,Barberio,Mark,D,COL
+1993/04/16,Oulu,,FIN,FIN,Eaves,Patrick,RW,ANA
+1991/03/23,Pori,,FIN,FIN,Moore,Dominic,C,TOR
+1993/05/17,Montreal,QC,CAN,CAN,Eriksson,Loui,LW,VAN
+1986/07/31,Magnitogorsk,,RUS,RUS,Kruger,Marcus,C,CAR
+1992/12/12,Detroit,MI,USA,USA,Thompson,Tage,C,STL
+1994/01/07,Ottawa,ON,CAN,CAN,Hunt,Brad,D,VGK
+1998/05/12,Roberval,QC,CAN,CAN,Bouma,Lance,LW,CHI
+1998/06/24,Ste-Agathe-Des-Monts,QC,CAN,CAN,Bergeron,Patrice,C,BOS
+1995/03/10,St. Clair,MI,USA,USA,Andersson,Rasmus,D,CGY
+1995/01/06,Sun Prairie,WI,USA,USA,Rinaldo,Zac,LW/C,ARI
+1997/08/06,Helsinki,,FIN,FIN,Weber,Shea,D,MTL
+1991/06/08,Keswick,ON,CAN,CAN,Wingels,Tommy,RW/C,"CHI, BOS"
+1985/09/17,Moscow,,RUS,RUS,Sanheim,Travis,D,PHI
+1998/07/30,Stockholm,,SWE,SWE,Redmond,Zach,D,BUF
+1985/12/12,Maple Ridge,BC,CAN,CAN,Krug,Torey,D,BOS
+1986/08/31,Plymouth,MN,USA,USA,Mironov,Andrei,D,COL
+1981/07/18,Schwenningen,,DEU,DEU,Malgin,Denis,C,FLA
+1994/07/27,Viking,AB,CAN,CAN,Bartkowski,Matt,D,CGY
+1985/10/30,Milwaukee,WI,USA,USA,Hayes,Jimmy,RW,NJD
+1990/02/09,Newmarket,ON,CAN,CAN,Lehtera,Jori,C,PHI
+1990/09/21,St. Paul,MN,USA,USA,Stone,Michael,D,CGY
+1989/06/23,"Garden River, First Nations",ON,CAN,CAN,Hartnell,Scott,LW,NSH
+1991/12/13,Yaroslavl,,RUS,RUS,Hainsey,Ron,D,TOR
+1991/06/06,Ottawa,ON,CAN,CAN,Kunitz,Chris,LW,TBL
+1985/05/13,Winnipeg,MB,CAN,CAN,Henrique,Adam,C,"NJD, ANA"
+1993/06/19,Ham Lake,MN,USA,USA,Orpik,Brooks,D,WSH
+1985/10/12,Calgary,AB,CAN,CAN,Brickley,Daniel,D,LAK
+1996/10/17,Edmonton,AB,CAN,CAN,McKenzie,Curtis,LW,DAL
+1990/05/27,Huntsville,AL,USA,USA,Poolman,Tucker,D,WPG
+1995/07/28,Milwaukee,WI,USA,USA,Williams,Justin,RW,CAR
+1994/04/07,Richmond,BC,CAN,CAN,Kronwall,Niklas,D,DET
+1994/01/26,Edmonton,AB,CAN,CAN,Warsofsky,David,D,COL
+1995/02/14,Chicago,IL,USA,USA,Weise,Dale,RW,PHI
+1995/04/17,Cherepovets,,RUS,RUS,Lee,Anders,LW,NYI
+1986/02/18,Meadow Lake,SK,CAN,CAN,Brodie,TJ,D,CGY
+1992/12/08,Stockholm,,SWE,SWE,Nyquist,Gustav,RW,DET
+1995/08/26,Pointe-Claire,QC,CAN,CAN,Grant,Derek,C,ANA
+1991/10/29,Moscow,,RUS,RUS,Calvert,Matt,LW,CBJ
+1983/02/04,West Seneca,NY,USA,USA,Martin,Paul,D,SJS
+1990/06/04,Prince George,BC,CAN,CAN,Pateryn,Greg,D,DAL
+1994/05/13,Penza,,RUS,RUS,Staal,Eric,C,MIN
+1995/04/10,Herning,,DNK,DNK,Vanek,Thomas,LW,"VAN, CBJ"
+1994/06/20,Pickering,ON,CAN,CAN,Suter,Ryan,D,MIN
+1985/07/30,Grand Rapids,MN,USA,USA,Coburn,Braydon,D,TBL
+1986/04/28,Sternberk,,CZE,CZE,Phaneuf,Dion,D,"OTT, LAK"
+1995/09/13,Buffalo,NY,USA,USA,Carter,Jeff,C,LAK
+1995/03/20,Mississauga,ON,CAN,CAN,Brown,Dustin,RW,LAK
+1994/05/14,Kitchener,ON,CAN,CAN,Seabrook,Brent,D,CHI
+1994/07/08,Ann Arbor,MI,USA,USA,Bernier,Steve,RW,NYI
+1995/01/12,Hamilton,ON,CAN,CAN,Parise,Zach,LW,MIN
+1990/09/08,Hodonin,,CZE,CZE,Fehr,Eric,C,"TOR, SJS"
+1989/07/27,Ivry-sur-Seine,,FRA,FRA,Getzlaf,Ryan,C,ANA
+1993/07/11,Mississauga,ON,CAN,CAN,Martin,Matt,LW,TOR
+1986/04/25,Togliatti,,RUS,RUS,Kesler,Ryan,C,ANA
+1995/02/09,Klagenfurt,,AUT,SWE,Boyle,Brian,C,NJD
+1995/03/07,Grosse Pointe,MI,USA,USA,Spurgeon,Jared,D,MIN
+1986/04/21,Ostersund,,SWE,SWE,Barberio,Mark,D,COL
+1994/11/30,Eisenstadt,,AUT,SVK,Eaves,Patrick,RW,ANA
+1995/03/02,Regina,SK,CAN,CAN,Moore,Dominic,C,TOR
+1995/07/04,Georgetown,ON,CAN,CAN,Eriksson,Loui,LW,VAN
+1994/09/20,Hilton Head Isl.,SC,USA,USA,Kruger,Marcus,C,CAR
+1995/08/05,Anaheim,CA,USA,USA,Thompson,Tage,C,STL
+1995/02/22,Orillia,ON,CAN,CAN,Hunt,Brad,D,VGK
+1995/04/20,New Haven,CT,USA,USA,Bouma,Lance,LW,CHI
+1995/05/20,Arvika,,SWE,SWE,Bergeron,Patrice,C,BOS
+1995/04/08,Northbrook,IL,USA,USA,Andersson,Rasmus,D,CGY
+1995/05/15,St. Petersburg,,RUS,RUS,Rinaldo,Zac,LW/C,ARI
+1995/03/27,Repentigny,QC,CAN,CAN,Weber,Shea,D,MTL
+1995/04/16,Cornwall,ON,CAN,CAN,Wingels,Tommy,RW/C,"CHI, BOS"
+1995/02/08,Uppsala,,SWE,SWE,Sanheim,Travis,D,PHI
+1995/03/07,Bronxville,NY,USA,USA,Redmond,Zach,D,BUF
+1995/03/22,Delta,BC,CAN,CAN,Krug,Torey,D,BOS
+1994/12/01,Boras,,SWE,SWE,Mironov,Andrei,D,COL
+1995/05/09,Calgary,AB,CAN,CAN,Malgin,Denis,C,FLA
+1995/01/28,Stockholm,,SWE,SWE,Bartkowski,Matt,D,CGY
+1995/07/01,Buffalo,NY,USA,USA,Hayes,Jimmy,RW,NJD
+1995/04/22,Winnipeg,MB,CAN,CAN,Lehtera,Jori,C,PHI
+1995/07/04,Piikkio,,FIN,FIN,Stone,Michael,D,CGY
+1987/01/13,Thunder Bay,ON,CAN,CAN,Hartnell,Scott,LW,NSH
+1994/12/20,LaSalle,QC,CAN,CAN,Hainsey,Ron,D,TOR
+1995/02/24,Sudbury,ON,CAN,CAN,Kunitz,Chris,LW,TBL
+1985/01/30,Greenfield Park,QC,CAN,CAN,Henrique,Adam,C,"NJD, ANA"
+1985/03/21,Rochester,NY,USA,USA,Orpik,Brooks,D,WSH
+1989/02/16,Toronto,ON,CAN,CAN,Brickley,Daniel,D,LAK
+1994/11/15,Tarrytown,NY,USA,USA,McKenzie,Curtis,LW,DAL
+1986/05/13,Lethbridge,AB,CAN,CAN,Poolman,Tucker,D,WPG
+1995/08/04,Ottawa,ON,CAN,CAN,Williams,Justin,RW,CAR
+1995/09/01,Halifax,NS,CAN,CAN,Kronwall,Niklas,D,DET
+1995/09/02,Tampere,,FIN,FIN,Warsofsky,David,D,COL
+1995/03/28,Ste-Agathe,QC,CAN,CAN,Weise,Dale,RW,PHI
+1994/10/03,Arlington,TX,USA,USA,Lee,Anders,LW,NYI
+1994/12/02,Boden,,SWE,SWE,Brodie,TJ,D,CGY
+1994/10/12,Brampton,ON,CAN,CAN,Nyquist,Gustav,RW,DET
+1995/02/04,Hamilton,ON,CAN,CAN,Grant,Derek,C,ANA
+1994/10/27,Turku,,FIN,FIN,Calvert,Matt,LW,CBJ
+1995/04/05,London,ON,CAN,CAN,Martin,Paul,D,SJS
+1995/07/12,Lac-Beauport,QC,CAN,CAN,Pateryn,Greg,D,DAL
+1995/03/02,Winnipeg,MB,CAN,CAN,Staal,Eric,C,MIN
+1995/03/28,Calgary,AB,CAN,CAN,Vanek,Thomas,LW,"VAN, CBJ"
+1994/09/22,Stockholm,,SWE,SWE,Suter,Ryan,D,MIN
+1994/10/06,Dauphin,MB,CAN,CAN,Coburn,Braydon,D,TBL
+1995/04/16,Moscow,,RUS,RUS,Phaneuf,Dion,D,"OTT, LAK"
+1995/02/02,Salmon Arm,BC,CAN,CAN,Carter,Jeff,C,LAK
+1995/03/21,Winterthur,,CHE,CHE,Brown,Dustin,RW,LAK
+1990/06/05,Prague,,CZE,CZE,Seabrook,Brent,D,CHI
+1994/09/16,Longueuil,QC,CAN,CAN,Bernier,Steve,RW,NYI
+1995/04/26,Laval,QC,CAN,CAN,Parise,Zach,LW,MIN
+1988/05/11,Halifax,NS,CAN,CAN,Fehr,Eric,C,"TOR, SJS"
+1987/10/31,Buffalo,NY,USA,USA,Getzlaf,Ryan,C,ANA
+1994/02/08,Laval,QC,CAN,CAN,Martin,Matt,LW,TOR
+1994/02/18,Charlottetown,PE,CAN,CAN,Kesler,Ryan,C,ANA
+1986/12/20,Kindersley,SK,CAN,CAN,Boyle,Brian,C,NJD
+1994/12/26,Battleford,SK,CAN,CAN,Spurgeon,Jared,D,MIN
+1991/11/14,Calgary,AB,CAN,CAN,Barberio,Mark,D,COL
+1996/08/26,Bonney Lake,WA,USA,USA,Eaves,Patrick,RW,ANA
+1988/04/28,Boston,MA,USA,USA,Moore,Dominic,C,TOR
+1994/01/05,Alton,IL,USA,USA,Eriksson,Loui,LW,VAN
+1988/03/21,Bloomington,MN,USA,USA,Kruger,Marcus,C,CAR
+1988/04/16,St. Paul,MN,USA,USA,Thompson,Tage,C,STL
+1996/01/26,Elk River,MN,USA,USA,Hunt,Brad,D,VGK
+1987/01/08,Salt Lake City,UT,USA,USA,Bouma,Lance,LW,CHI
+1994/05/07,Burlington,ON,CAN,CAN,Bergeron,Patrice,C,BOS
+1987/06/14,Toronto,ON,CAN,CAN,Andersson,Rasmus,D,CGY
+1987/01/23,Narva,,EST,FIN,Rinaldo,Zac,LW/C,ARI
+1988/08/05,Fergus,ON,CAN,CAN,Weber,Shea,D,MTL
+1990/11/13,New Westminster,BC,CAN,CAN,Wingels,Tommy,RW/C,"CHI, BOS"
+1988/04/14,Saskatoon,SK,CAN,CAN,Sanheim,Travis,D,PHI
+1996/08/13,Laval,QC,CAN,CAN,Redmond,Zach,D,BUF
+1988/06/07,Vancouver,BC,CAN,CAN,Krug,Torey,D,BOS
+1985/08/17,Vancouver,BC,CAN,CAN,Mironov,Andrei,D,COL
+1992/02/26,Oulu,,FIN,FIN,Malgin,Denis,C,FLA
+1999/04/22,Vihti,,FIN,FIN,Bartkowski,Matt,D,CGY
+1995/01/13,Moscow,,RUS,RUS,Hayes,Jimmy,RW,NJD
+1985/05/21,Warren,MI,USA,USA,Lehtera,Jori,C,PHI
+1987/10/30,Toronto,ON,CAN,CAN,Stone,Michael,D,CGY
+1993/02/08,Medicine Hat,AB,CAN,CAN,Hartnell,Scott,LW,NSH
+1988/06/07,Windsor,ON,CAN,CAN,Hainsey,Ron,D,TOR
+1990/07/14,Burlington,ON,CAN,CAN,Kunitz,Chris,LW,TBL
+1987/11/12,Edmonton,AB,CAN,CAN,Henrique,Adam,C,"NJD, ANA"
+1994/12/09,Richmond Hill,ON,CAN,CAN,Orpik,Brooks,D,WSH
+1996/10/03,Braintree,MA,USA,USA,Brickley,Daniel,D,LAK
+1987/11/18,Welland,ON,CAN,CAN,McKenzie,Curtis,LW,DAL
+1990/10/29,Lipetsk,,RUS,RUS,Poolman,Tucker,D,WPG
+1987/03/12,Cherepovets,,RUS,RUS,Williams,Justin,RW,CAR
+1987/09/03,Whitby,ON,CAN,CAN,Kronwall,Niklas,D,DET
+1994/10/07,Torrance,CA,USA,USA,Warsofsky,David,D,COL
+1988/01/12,Hearst,ON,CAN,CAN,Weise,Dale,RW,PHI
+1980/06/05,Peterborough,ON,CAN,CAN,Lee,Anders,LW,NYI
+1988/04/04,Montreal,QC,CAN,CAN,Brodie,TJ,D,CGY
+1985/03/06,Toronto,ON,CAN,CAN,Nyquist,Gustav,RW,DET
+1988/09/10,Thunder Bay,ON,CAN,CAN,Grant,Derek,C,ANA
+1986/12/06,Virginia,MN,USA,USA,Calvert,Matt,LW,CBJ
+1991/01/14,Toronto,ON,CAN,CAN,Martin,Paul,D,SJS
+1985/07/15,Prince Albert,SK,CAN,CAN,Pateryn,Greg,D,DAL
+1992/01/31,Brampton,ON,CAN,CAN,Staal,Eric,C,MIN
+1980/06/04,Sorel,QC,CAN,CAN,Vanek,Thomas,LW,"VAN, CBJ"
+1987/10/05,Villach,,AUT,AUT,Suter,Ryan,D,MIN
+1979/01/18,Rochester,NY,USA,USA,Coburn,Braydon,D,TBL
+1987/10/02,Madison,WI,USA,USA,Phaneuf,Dion,D,"OTT, LAK"
+1983/06/13,Toronto,ON,CAN,CAN,Carter,Jeff,C,LAK
+1986/03/15,Rødovre,,DNK,DNK,Brown,Dustin,RW,LAK
+1983/03/12,Turku,,FIN,FIN,Seabrook,Brent,D,CHI
+1988/02/16,Munich,,DEU,DEU,Bernier,Steve,RW,NYI
+1982/12/13,Smithers,BC,CAN,CAN,Parise,Zach,LW,MIN
+1983/08/13,Pardubice,,CZE,CZE,Fehr,Eric,C,"TOR, SJS"
+1987/11/23,Gävle,,SWE,SWE,Getzlaf,Ryan,C,ANA
+1988/02/17,Kladno,,CZE,CZE,Martin,Matt,LW,TOR
+1986/05/07,Elk River,MN,USA,USA,Kesler,Ryan,C,ANA
+1988/05/24,Yaroslavl,,RUS,RUS,Boyle,Brian,C,NJD
+1988/02/19,Mississauga,ON,CAN,CAN,Spurgeon,Jared,D,MIN
+1987/11/29,Victoria,BC,CAN,CAN,Barberio,Mark,D,COL
+1986/07/14,Magnitogorsk,,RUS,RUS,Eaves,Patrick,RW,ANA
+1986/09/07,Judique,NS,CAN,CAN,Moore,Dominic,C,TOR
+1998/06/25,Nizhnekamsk,,RUS,RUS,Eriksson,Loui,LW,VAN
+1982/06/08,Toronto,ON,CAN,CAN,Kruger,Marcus,C,CAR
+1983/06/03,Sault Ste. Marie,ON,CAN,CAN,Thompson,Tage,C,STL
+1999/09/05,Kromeriz,,CZE,CZE,Hunt,Brad,D,VGK
+1982/11/30,Repentigny,QC,CAN,USA,Bouma,Lance,LW,CHI
+1988/04/29,Winnipeg,MB,CAN,CAN,Bergeron,Patrice,C,BOS
+1991/10/30,Korkino,,RUS,RUS,Andersson,Rasmus,D,CGY
+1987/04/24,Montreal,QC,CAN,CAN,Rinaldo,Zac,LW/C,ARI
+1989/11/21,Dorchester,MA,USA,USA,Weber,Shea,D,MTL
+1987/12/23,Helsinki,,FIN,FIN,Wingels,Tommy,RW/C,"CHI, BOS"
+1990/06/07,Winnipeg,MB,CAN,CAN,Sanheim,Travis,D,PHI
+1982/04/18,Regina,SK,CAN,CAN,Redmond,Zach,D,BUF
+1981/03/24,Bolton,CT,USA,USA,Krug,Torey,D,BOS
+1979/09/26,Regina,SK,CAN,CAN,Mironov,Andrei,D,COL
+1990/02/06,Brantford,ON,CAN,CAN,Malgin,Denis,C,FLA
+1980/09/26,San Francisco,CA,USA,USA,Bartkowski,Matt,D,CGY
+1995/03/30,SANDY,UT,USA,USA,Hayes,Jimmy,RW,NJD
+1991/02/22,Golden,BC,CAN,CAN,Lehtera,Jori,C,PHI
+1993/06/08,Dubuque,IA,USA,USA,Stone,Michael,D,CGY
+1981/10/04,Cobourg,ON,CAN,CAN,Hartnell,Scott,LW,NSH
+1981/01/12,Stockholm,,SWE,SWE,Hainsey,Ron,D,TOR
+1990/05/30,Marshfield,MA,USA,USA,Kunitz,Chris,LW,TBL
+1988/08/05,Winnipeg,MB,CAN,CAN,Henrique,Adam,C,"NJD, ANA"
+1990/07/03,Edina,MN,USA,USA,Orpik,Brooks,D,WSH
+1990/06/07,Chatham,ON,CAN,CAN,Brickley,Daniel,D,LAK
+1989/09/01,Halmstad,,SWE,SWE,McKenzie,Curtis,LW,DAL
+1990/04/20,Abbotsford,BC,CAN,CAN,Poolman,Tucker,D,WPG
+1989/12/24,Brandon,MB,CAN,CAN,Williams,Justin,RW,CAR
+1981/03/05,Minneapolis,MN,USA,USA,Kronwall,Niklas,D,DET
+1990/06/20,Sterling Heights,MI,USA,USA,Warsofsky,David,D,COL
+1984/10/29,Thunder Bay,ON,CAN,CAN,Weise,Dale,RW,PHI
+1984/01/19,Vienna,,AUT,AUT,Lee,Anders,LW,NYI
+1985/01/21,Madison,WI,USA,USA,Brodie,TJ,D,CGY
+1985/02/27,Shaunavon,SK,CAN,CAN,Nyquist,Gustav,RW,DET
+1985/04/10,Edmonton,AB,CAN,CAN,Grant,Derek,C,ANA
+1985/01/01,London,ON,CAN,CAN,Calvert,Matt,LW,CBJ
+1984/11/04,Ithaca,NY,USA,USA,Martin,Paul,D,SJS
+1985/04/20,Richmond,BC,CAN,CAN,Pateryn,Greg,D,DAL
+1985/03/31,Quebec City,QC,CAN,CAN,Staal,Eric,C,MIN
+1984/07/28,Minneapolis,MN,USA,USA,Vanek,Thomas,LW,"VAN, CBJ"
+1985/09/07,Winkler,MB,CAN,CAN,Suter,Ryan,D,MIN
+1985/05/10,Regina,SK,CAN,CAN,Coburn,Braydon,D,TBL
+1989/05/08,Windsor,ON,CAN,CAN,Phaneuf,Dion,D,"OTT, LAK"
+1984/08/31,Livonia,MI,USA,USA,Carter,Jeff,C,LAK
+1984/12/18,Hingham,MA,USA,USA,Brown,Dustin,RW,LAK
+1989/11/29,Edmonton,AB,CAN,CAN,Seabrook,Brent,D,CHI
+1990/03/23,Montreal,QC,CAN,CAN,Bernier,Steve,RW,NYI
+1984/05/01,Calgary,AB,CAN,USA,Parise,Zach,LW,MIN
+1980/08/03,Thornhill,ON,CAN,CAN,Fehr,Eric,C,"TOR, SJS"
+1985/07/17,Gothenburg,,SWE,SWE,Getzlaf,Ryan,C,ANA
+1990/05/27,Stockholm,,SWE,SWE,Martin,Matt,LW,TOR
+1997/10/30,Phoenix,AZ,USA,USA,Kesler,Ryan,C,ANA
+1988/08/24,Maple Ridge,BC,CAN,CAN,Boyle,Brian,C,NJD
+1990/03/25,Provost,AB,CAN,CAN,Spurgeon,Jared,D,MIN
+1985/07/24,Ancienne-Lorette,QC,CAN,CAN,Barberio,Mark,D,COL
+1996/10/27,Malmö,,SWE,SWE,Eaves,Patrick,RW,ANA
+1990/06/15,Mississauga,ON,CAN,CAN,Moore,Dominic,C,TOR
+1985/08/14,Sicamous,BC,CAN,CAN,Eriksson,Loui,LW,VAN
+1988/04/12,Evanston,IL,USA,USA,Kruger,Marcus,C,CAR
+1996/03/29,Elkhorn,MB,CAN,CAN,Thompson,Tage,C,STL
+1988/07/26,Traverse City,MI,USA,USA,Hunt,Brad,D,VGK
+1991/04/12,Livonia,MI,USA,USA,Bouma,Lance,LW,CHI
+1994/07/29,Moscow,,RUS,RUS,Bergeron,Patrice,C,BOS
+1997/01/18,Olten,,CHE,CHE,Andersson,Rasmus,D,CGY
+1988/06/04,Pittsburgh,PA,USA,USA,Rinaldo,Zac,LW/C,ARI
+1995/03/17,Quebec City,QC,CAN,CAN,Weber,Shea,D,MTL
+1984/05/01,Minneapolis,MN,USA,USA,Wingels,Tommy,RW/C,"CHI, BOS"
+1981/06/17,Blaine,MN,USA,USA,Sanheim,Travis,D,PHI
+1990/07/02,Burnsville,MN,USA,USA,Redmond,Zach,D,BUF
+1990/04/23,Minneapolis,MN,USA,USA,Krug,Torey,D,BOS
+1994/08/08,Prague,,CZE,CZE,Mironov,Andrei,D,COL
+1996/04/02,Kosice,,SVK,SVK,Malgin,Denis,C,FLA
+1989/04/28,Grand Rapids,MI,USA,USA,Bartkowski,Matt,D,CGY
+1997/09/10,Denver,CO,USA,USA,Hayes,Jimmy,RW,NJD
+1991/12/15,Saint-Narcisse,QC,CAN,CAN,Lehtera,Jori,C,PHI
+1996/07/10,Chaska,MN,USA,USA,Stone,Michael,D,CGY
+1996/11/28,Brandon,MB,CAN,CAN,Hartnell,Scott,LW,NSH
+1987/03/17,Cherry Hill,NJ,USA,USA,Hainsey,Ron,D,TOR
+1993/09/27,Regina,SK,CAN,CAN,Kunitz,Chris,LW,TBL
+1994/02/12,Milwaukee,WI,USA,USA,Henrique,Adam,C,"NJD, ANA"
+1994/03/09,Vancouver,BC,CAN,CAN,Orpik,Brooks,D,WSH
+1994/01/20,Helsingborg,,SWE,SWE,Brickley,Daniel,D,LAK
+1993/10/06,Nizhnekamsk,,RUS,RUS,McKenzie,Curtis,LW,DAL
+1994/07/25,Regina,SK,CAN,CAN,Poolman,Tucker,D,WPG
+1993/09/23,Stockholm,,SWE,SWE,Williams,Justin,RW,CAR
+1993/10/09,Toronto,ON,CAN,CAN,Kronwall,Niklas,D,DET
+1987/07/26,Victoria,BC,CAN,CAN,Warsofsky,David,D,COL
+1996/10/10,Haapavesi,,FIN,FIN,Weise,Dale,RW,PHI
+1985/08/12,Kitchener,ON,CAN,CAN,Lee,Anders,LW,NYI
+1994/03/26,Lakeville,MN,USA,USA,Brodie,TJ,D,CGY
+1994/02/23,Chicago,IL,USA,USA,Nyquist,Gustav,RW,DET
+1992/08/10,Kitchener,ON,CAN,CAN,Grant,Derek,C,ANA
+1994/05/30,Oakville,ON,CAN,CAN,Calvert,Matt,LW,CBJ
+1994/09/13,Hamilton,ON,CAN,CAN,Martin,Paul,D,SJS
+1994/08/22,Jyväskylä,,FIN,FIN,Pateryn,Greg,D,DAL
+1994/02/27,Pointe-Claire,QC,CAN,CAN,Staal,Eric,C,MIN
+1993/10/08,Madison,WI,USA,USA,Vanek,Thomas,LW,"VAN, CBJ"
+1994/01/05,Riga,,LVA,LVA,Suter,Ryan,D,MIN
+1993/12/21,Ottawa,ON,CAN,CAN,Coburn,Braydon,D,TBL
+1994/03/29,Toronto,ON,CAN,CAN,Phaneuf,Dion,D,"OTT, LAK"
+1993/11/12,Praha,,CZE,CZE,Carter,Jeff,C,LAK
+1994/09/11,Helsinki,,FIN,FIN,Brown,Dustin,RW,LAK
+1994/01/16,Estevan,SK,CAN,CAN,Seabrook,Brent,D,CHI
+1994/02/26,Rochester,MI,USA,USA,Bernier,Steve,RW,NYI
+1994/02/18,Winchester,ON,CAN,CAN,Parise,Zach,LW,MIN
+1994/08/13,Ostervala,,SWE,SWE,Fehr,Eric,C,"TOR, SJS"
+1994/01/09,Vitkov,,CZE,CZE,Getzlaf,Ryan,C,ANA
+1994/05/15,Ann Arbor,MI,USA,USA,Martin,Matt,LW,TOR
+1994/01/05,Charlestown,MA,USA,USA,Kesler,Ryan,C,ANA
+1993/05/12,St. Albert,AB,CAN,CAN,Boyle,Brian,C,NJD
+1994/05/19,Winnipeg,MB,CAN,CAN,Spurgeon,Jared,D,MIN
+1994/03/23,Boden,,SWE,SWE,Barberio,Mark,D,COL
+1985/02/04,Belleville,ON,CAN,CAN,Eaves,Patrick,RW,ANA
+1994/05/23,Vantaa,,FIN,FIN,Moore,Dominic,C,TOR
+1985/06/21,Ottawa,ON,CAN,CAN,Eriksson,Loui,LW,VAN
+1994/04/22,Saskatoon,SK,CAN,CAN,Kruger,Marcus,C,CAR
+1993/04/20,Pembroke Pines,FL,USA,USA,Thompson,Tage,C,STL
+1994/07/19,Ajax,ON,CAN,CAN,Hunt,Brad,D,VGK
+1994/08/13,Surrey,BC,CAN,CAN,Bouma,Lance,LW,CHI
+1994/08/16,Toronto,ON,CAN,CAN,Bergeron,Patrice,C,BOS
+1993/05/26,Boston,MA,USA,USA,Andersson,Rasmus,D,CGY
+1984/10/05,Anchorage,AK,USA,USA,Rinaldo,Zac,LW/C,ARI
+1992/07/25,Brandon,MB,CAN,CAN,Weber,Shea,D,MTL
+1994/01/23,Syracuse,NY,USA,USA,Wingels,Tommy,RW/C,"CHI, BOS"
+1994/08/07,Melville,SK,CAN,CAN,Sanheim,Travis,D,PHI
+1993/10/05,Pelhrimov,,CZE,CZE,Redmond,Zach,D,BUF
+1993/11/05,North Vancouver,BC,CAN,CAN,Krug,Torey,D,BOS
+1993/10/12,Eau Claire,WI,USA,USA,Mironov,Andrei,D,COL
+1989/11/24,Kitchener,ON,CAN,CAN,Malgin,Denis,C,FLA
+1994/02/02,Fergus,ON,CAN,CAN,Bartkowski,Matt,D,CGY
+1992/04/20,Swan River,MB,CAN,CAN,Hayes,Jimmy,RW,NJD
+1984/07/11,Plover,WI,USA,USA,Lehtera,Jori,C,PHI
+1994/04/13,Orland Park,IL,USA,USA,Stone,Michael,D,CGY
+1984/05/25,St. Paul,AB,CAN,CAN,Hartnell,Scott,LW,NSH
+1994/06/23,Alma,QC,CAN,CAN,Hainsey,Ron,D,TOR
+1994/03/09,Duluth,MN,USA,USA,Kunitz,Chris,LW,TBL
+1994/07/04,Stouffville,ON,CAN,CAN,Henrique,Adam,C,"NJD, ANA"
+1994/02/15,Saskatoon,SK,CAN,CAN,Orpik,Brooks,D,WSH
+1994/05/01,Denver,CO,USA,USA,Brickley,Daniel,D,LAK
+1994/08/06,London,ON,CAN,CAN,McKenzie,Curtis,LW,DAL
+1979/09/15,Aneroid,SK,CAN,CAN,Poolman,Tucker,D,WPG
+1994/04/16,Toronto,ON,CAN,CAN,Williams,Justin,RW,CAR
+1994/01/06,Edmonton,AB,CAN,CAN,Kronwall,Niklas,D,DET
+1994/10/06,Omaha,NE,USA,USA,Warsofsky,David,D,COL
+1993/05/20,Greenfield Park,QC,CAN,CAN,Weise,Dale,RW,PHI
+1984/11/05,Nordingra,,SWE,SWE,Lee,Anders,LW,NYI
+1993/08/13,Gaspe,QC,CAN,CAN,Brodie,TJ,D,CGY
+1985/03/27,Roseau,MN,USA,USA,Nyquist,Gustav,RW,DET
+1992/03/14,Nynashamn,,SWE,SWE,Grant,Derek,C,ANA
+1985/10/12,Malmö,,SWE,SWE,Calvert,Matt,LW,CBJ
+1994/01/30,Berlin,,DEU,USA,Martin,Paul,D,SJS
+1992/09/06,Grand Forks,ND,USA,USA,Pateryn,Greg,D,DAL
+1987/01/20,Winnipeg,MB,CAN,CAN,Staal,Eric,C,MIN
+1994/04/03,Chicago,IL,USA,USA,Vanek,Thomas,LW,"VAN, CBJ"
+1983/11/01,North York,ON,CAN,CAN,Suter,Ryan,D,MIN
+1983/11/29,Regina,SK,CAN,CAN,Coburn,Braydon,D,TBL
+1996/05/31,Stratford,ON,CAN,CAN,Phaneuf,Dion,D,"OTT, LAK"
+1982/07/20,St. Agapit,QC,CAN,CAN,Carter,Jeff,C,LAK
+1984/11/24,Detroit,MI,USA,USA,Brown,Dustin,RW,LAK
+1994/04/05,Fribourg,,CHE,CHE,Seabrook,Brent,D,CHI
+1994/03/24,Cambridge,ON,CAN,CAN,Bernier,Steve,RW,NYI
+1994/07/18,Markham,ON,CAN,CAN,Parise,Zach,LW,MIN
+1994/01/14,Toronto,ON,CAN,CAN,Fehr,Eric,C,"TOR, SJS"
+1993/04/20,Brockville,ON,CAN,CAN,Getzlaf,Ryan,C,ANA
+1994/08/11,Vancouver,BC,CAN,CAN,Martin,Matt,LW,TOR
+1993/03/21,Zurich,,CHE,CHE,Kesler,Ryan,C,ANA
+1988/09/24,Ann Arbor,MI,USA,USA,Boyle,Brian,C,NJD
+1984/03/02,Karlskrona,,SWE,SWE,Spurgeon,Jared,D,MIN
+1992/12/10,Plantation,FL,USA,USA,Barberio,Mark,D,COL
+1993/03/29,St. Louis,MO,USA,USA,Eaves,Patrick,RW,ANA
+1994/08/06,Gothenburg,,SWE,SWE,Moore,Dominic,C,TOR
+1993/06/17,Rumson,NJ,USA,USA,Eriksson,Loui,LW,VAN
+1986/04/29,Anchorage,AK,USA,USA,Kruger,Marcus,C,CAR
+1976/11/02,Virginia,MN,USA,USA,Thompson,Tage,C,STL
+1994/01/11,Lewisville,TX,USA,USA,Hunt,Brad,D,VGK
+1993/04/19,Chambersburg,PA,USA,USA,Bouma,Lance,LW,CHI
+1994/07/29,Halifax,NS,CAN,CAN,Bergeron,Patrice,C,BOS
+1993/03/29,Greenwich,CT,USA,USA,Andersson,Rasmus,D,CGY
+1994/03/25,Sauble Beach,ON,CAN,CAN,Rinaldo,Zac,LW/C,ARI
+1995/06/06,Karlstad,,SWE,SWE,Weber,Shea,D,MTL
+1991/11/28,Plano,TX,USA,USA,Wingels,Tommy,RW/C,"CHI, BOS"
+1994/05/27,Flin Flon,MB,CAN,CAN,Sanheim,Travis,D,PHI
+1992/10/05,Glace Bay,NS,CAN,CAN,Redmond,Zach,D,BUF
+1984/03/01,Winnipeg,MB,CAN,SWE,Krug,Torey,D,BOS
+1994/02/02,Vaxjo,,SWE,SWE,Mironov,Andrei,D,COL
+1997/06/26,Regina,SK,CAN,CAN,Malgin,Denis,C,FLA
+1983/10/03,Toronto,ON,CAN,CAN,Bartkowski,Matt,D,CGY
+1989/07/12,Ottawa,ON,CAN,CAN,Hayes,Jimmy,RW,NJD
+1986/06/08,Bojnice,,SVK,SVK,Lehtera,Jori,C,PHI
+1997/04/02,Surrey,BC,CAN,CAN,Stone,Michael,D,CGY
+1990/02/01,Fort Lauderdale,FL,USA,USA,Hartnell,Scott,LW,NSH
+1990/02/23,Montreal,QC,CAN,CAN,Hainsey,Ron,D,TOR
+1980/09/26,Ornskoldsvik,,SWE,SWE,Kunitz,Chris,LW,TBL
+1980/09/26,Ornskoldsvik,,SWE,SWE,Henrique,Adam,C,"NJD, ANA"
+1986/03/19,Regina,SK,CAN,CAN,Orpik,Brooks,D,WSH
+1993/05/26,Innisfil,ON,CAN,CAN,Brickley,Daniel,D,LAK
+1996/04/04,Toronto,ON,CAN,CAN,McKenzie,Curtis,LW,DAL
+1991/08/20,Grande Prairie,AB,CAN,CAN,Poolman,Tucker,D,WPG
+1986/09/14,Laurier-Station,QC,CAN,CAN,Williams,Justin,RW,CAR
+1997/06/08,Sorel-Tracy,QC,CAN,CAN,Kronwall,Niklas,D,DET
+1985/03/09,Barrie,ON,CAN,CAN,Warsofsky,David,D,COL
+1984/01/19,Edmonton,AB,CAN,CAN,Weise,Dale,RW,PHI
+1990/09/29,Lakeville,MN,USA,USA,Lee,Anders,LW,NYI
+1990/10/06,Landskrona,,SWE,SWE,Brodie,TJ,D,CGY
+1991/02/01,Smithtown,NY,USA,USA,Nyquist,Gustav,RW,DET
+1992/11/01,Geneva,IL,USA,USA,Grant,Derek,C,ANA
+1991/08/08,Trail,BC,CAN,CAN,Calvert,Matt,LW,CBJ
+1991/02/07,Clinton,ON,CAN,CAN,Martin,Paul,D,SJS
+1984/08/14,Kelowna,BC,CAN,CAN,Pateryn,Greg,D,DAL
+1991/01/13,Ayr,ON,CAN,CAN,Staal,Eric,C,MIN
+1990/10/01,Montreal,QC,CAN,CAN,Vanek,Thomas,LW,"VAN, CBJ"
+1990/10/13,Gävle,,SWE,SWE,Suter,Ryan,D,MIN
+1990/11/16,Merrimack,NH,USA,USA,Coburn,Braydon,D,TBL
+1990/09/20,Mississauga,ON,CAN,CAN,Phaneuf,Dion,D,"OTT, LAK"
+1990/03/07,Detroit,MI,USA,USA,Carter,Jeff,C,LAK
+1982/02/14,Trencin,,SVK,SVK,Brown,Dustin,RW,LAK
+1991/08/02,Vancouver,BC,CAN,CAN,Seabrook,Brent,D,CHI
+1991/08/22,Saskatoon,SK,CAN,CAN,Bernier,Steve,RW,NYI
+1989/06/05,Riverside,CT,USA,USA,Parise,Zach,LW,MIN
+1992/07/18,Wisconsin Rapids,WI,USA,USA,Fehr,Eric,C,"TOR, SJS"
+1991/04/12,Norrkoping,,SWE,SWE,Getzlaf,Ryan,C,ANA
+1991/01/03,Hamilton,ON,CAN,CAN,Martin,Matt,LW,TOR
+1991/05/09,Carp,ON,CAN,CAN,Kesler,Ryan,C,ANA
+1991/01/24,Windsor,ON,CAN,CAN,Boyle,Brian,C,NJD
+1995/08/02,Zilina,,SVK,SVK,Spurgeon,Jared,D,MIN
+1995/12/12,Brooklyn,NY,USA,USA,Barberio,Mark,D,COL
+1991/03/20,Eden Prairie,MN,USA,USA,Eaves,Patrick,RW,ANA
+1985/05/16,Peterborough,ON,CAN,CAN,Moore,Dominic,C,TOR
+1991/04/30,Boxford,MA,USA,USA,Eriksson,Loui,LW,VAN
+1991/03/02,Stockholm,,SWE,SWE,Kruger,Marcus,C,CAR
+1990/11/19,Winnetka,IL,USA,USA,Thompson,Tage,C,STL
+1991/01/21,Davidson,SK,CAN,CAN,Hunt,Brad,D,VGK
+1991/04/01,Toronto,ON,CAN,CAN,Bouma,Lance,LW,CHI
+1989/05/10,Grand Prairie,AB,CAN,CAN,Bergeron,Patrice,C,BOS
+1990/12/01,Ilava,,SVK,SVK,Andersson,Rasmus,D,CGY
+1993/04/14,Kauniainen,,FIN,FIN,Rinaldo,Zac,LW/C,ARI
+1993/05/21,Canton,MA,USA,USA,Weber,Shea,D,MTL
+1990/05/07,San Diego,CA,USA,USA,Wingels,Tommy,RW/C,"CHI, BOS"
+1991/12/31,Toronto,ON,CAN,CAN,Sanheim,Travis,D,PHI
+1991/07/23,Novokuznetsk,,RUS,RUS,Redmond,Zach,D,BUF
+1988/09/24,Boston,MA,USA,USA,Krug,Torey,D,BOS
+1991/04/10,Toronto,ON,CAN,CAN,Mironov,Andrei,D,COL
+1991/09/06,Biddeford,ME,USA,USA,Malgin,Denis,C,FLA
+1991/02/07,Martin,,SVK,SVK,Bartkowski,Matt,D,CGY
+1990/04/14,Holland,MI,USA,USA,Hayes,Jimmy,RW,NJD
+1997/12/11,Scottsdale,AZ,USA,USA,Lehtera,Jori,C,PHI
+1991/08/10,Buffalo,NY,USA,CAN,Stone,Michael,D,CGY
+1997/09/17,San Ramon,CA,USA,USA,Hartnell,Scott,LW,NSH
+1991/01/16,Haliburton,ON,CAN,CAN,Hainsey,Ron,D,TOR
+1991/05/14,Burlington,ON,CAN,CAN,Kunitz,Chris,LW,TBL
+1989/09/05,Madison,WI,USA,USA,Henrique,Adam,C,"NJD, ANA"
+1990/01/07,St. Louis,MO,USA,USA,Orpik,Brooks,D,WSH
+1997/12/21,Long Beach,NY,USA,USA,Brickley,Daniel,D,LAK
+1991/02/27,Toronto,ON,CAN,CAN,McKenzie,Curtis,LW,DAL
+1990/10/22,St. Hyacinthe,QC,CAN,CAN,Poolman,Tucker,D,WPG
+1991/02/22,LaSalle,QC,CAN,CAN,Williams,Justin,RW,CAR
+1991/05/24,Winnipeg,MB,CAN,CAN,Kronwall,Niklas,D,DET
+1997/12/18,Farmington Hills,MI,USA,USA,Warsofsky,David,D,COL
+1988/12/01,Villach,,AUT,AUT,Weise,Dale,RW,PHI
+1998/04/19,Tampere,,FIN,FIN,Lee,Anders,LW,NYI
+1990/02/23,Edmonton,AB,CAN,CAN,Brodie,TJ,D,CGY
+1998/07/29,Chesterfield,MO,USA,USA,Nyquist,Gustav,RW,DET
+1998/05/07,Alvkarleby,,SWE,FIN,Grant,Derek,C,ANA
+1977/03/18,Trencin,,SVK,SVK,Calvert,Matt,LW,CBJ
+1990/10/06,Ville Degelis,QC,CAN,CAN,Martin,Paul,D,SJS
+1992/03/20,South St.Paul,MN,USA,USA,Pateryn,Greg,D,DAL
+1990/07/22,Canton,NY,USA,USA,Staal,Eric,C,MIN
+1990/09/23,Rimouski,QC,CAN,CAN,Vanek,Thomas,LW,"VAN, CBJ"
+1998/03/05,Raleigh,NC,USA,USA,Suter,Ryan,D,MIN
+1995/03/14,Molnlycke,,SWE,SWE,Coburn,Braydon,D,TBL
+1998/03/14,St. Albert,AB,CAN,CAN,Phaneuf,Dion,D,"OTT, LAK"
+1998/05/25,Oulunsalo,,FIN,FIN,Carter,Jeff,C,LAK
+1991/03/12,Winkler,MB,CAN,CAN,Brown,Dustin,RW,LAK
+1991/05/09,Hamilton,ON,CAN,CAN,Seabrook,Brent,D,CHI
+1998/06/07,Woodbridge,ON,CAN,CAN,Bernier,Steve,RW,NYI
+1993/04/16,Oulu,,FIN,FIN,Parise,Zach,LW,MIN
+1991/03/23,Pori,,FIN,FIN,Fehr,Eric,C,"TOR, SJS"
+1993/05/17,Montreal,QC,CAN,CAN,Getzlaf,Ryan,C,ANA
+1986/07/31,Magnitogorsk,,RUS,RUS,Martin,Matt,LW,TOR
+1992/12/12,Detroit,MI,USA,USA,Kesler,Ryan,C,ANA
+1994/01/07,Ottawa,ON,CAN,CAN,Boyle,Brian,C,NJD
+1998/05/12,Roberval,QC,CAN,CAN,Spurgeon,Jared,D,MIN
+1998/06/24,Ste-Agathe-Des-Monts,QC,CAN,CAN,Barberio,Mark,D,COL
+1995/03/10,St. Clair,MI,USA,USA,Eaves,Patrick,RW,ANA
+1995/01/06,Sun Prairie,WI,USA,USA,Moore,Dominic,C,TOR
+1997/08/06,Helsinki,,FIN,FIN,Eriksson,Loui,LW,VAN
+1991/06/08,Keswick,ON,CAN,CAN,Kruger,Marcus,C,CAR
+1985/09/17,Moscow,,RUS,RUS,Thompson,Tage,C,STL
+1998/07/30,Stockholm,,SWE,SWE,Hunt,Brad,D,VGK
+1985/12/12,Maple Ridge,BC,CAN,CAN,Bouma,Lance,LW,CHI
+1986/08/31,Plymouth,MN,USA,USA,Bergeron,Patrice,C,BOS
+1981/07/18,Schwenningen,,DEU,DEU,Andersson,Rasmus,D,CGY
+1994/07/27,Viking,AB,CAN,CAN,Rinaldo,Zac,LW/C,ARI
+1985/10/30,Milwaukee,WI,USA,USA,Weber,Shea,D,MTL
+1990/02/09,Newmarket,ON,CAN,CAN,Wingels,Tommy,RW/C,"CHI, BOS"
+1990/09/21,St. Paul,MN,USA,USA,Sanheim,Travis,D,PHI
+1989/06/23,"Garden River, First Nations",ON,CAN,CAN,Redmond,Zach,D,BUF
+1991/12/13,Yaroslavl,,RUS,RUS,Krug,Torey,D,BOS
+1991/06/06,Ottawa,ON,CAN,CAN,Mironov,Andrei,D,COL
+1985/05/13,Winnipeg,MB,CAN,CAN,Malgin,Denis,C,FLA
+1993/06/19,Ham Lake,MN,USA,USA,Bartkowski,Matt,D,CGY
+1985/10/12,Calgary,AB,CAN,CAN,Hayes,Jimmy,RW,NJD
+1996/10/17,Edmonton,AB,CAN,CAN,Lehtera,Jori,C,PHI
+1990/05/27,Huntsville,AL,USA,USA,Stone,Michael,D,CGY
+1995/07/28,Milwaukee,WI,USA,USA,Hartnell,Scott,LW,NSH
+1994/04/07,Richmond,BC,CAN,CAN,Hainsey,Ron,D,TOR
+1994/01/26,Edmonton,AB,CAN,CAN,Kunitz,Chris,LW,TBL
+1995/02/14,Chicago,IL,USA,USA,Henrique,Adam,C,"NJD, ANA"
+1995/04/17,Cherepovets,,RUS,RUS,Orpik,Brooks,D,WSH
+1986/02/18,Meadow Lake,SK,CAN,CAN,Brickley,Daniel,D,LAK
+1992/12/08,Stockholm,,SWE,SWE,McKenzie,Curtis,LW,DAL
+1995/08/26,Pointe-Claire,QC,CAN,CAN,Poolman,Tucker,D,WPG
+1991/10/29,Moscow,,RUS,RUS,Williams,Justin,RW,CAR
+1983/02/04,West Seneca,NY,USA,USA,Kronwall,Niklas,D,DET
+1990/06/04,Prince George,BC,CAN,CAN,Warsofsky,David,D,COL
+1994/05/13,Penza,,RUS,RUS,Weise,Dale,RW,PHI
+1995/04/10,Herning,,DNK,DNK,Lee,Anders,LW,NYI
+1994/06/20,Pickering,ON,CAN,CAN,Brodie,TJ,D,CGY
+1985/07/30,Grand Rapids,MN,USA,USA,Nyquist,Gustav,RW,DET
+1986/04/28,Sternberk,,CZE,CZE,Grant,Derek,C,ANA
+1995/09/13,Buffalo,NY,USA,USA,Calvert,Matt,LW,CBJ
+1995/03/20,Mississauga,ON,CAN,CAN,Martin,Paul,D,SJS
+1994/05/14,Kitchener,ON,CAN,CAN,Pateryn,Greg,D,DAL
+1994/07/08,Ann Arbor,MI,USA,USA,Staal,Eric,C,MIN
+1995/01/12,Hamilton,ON,CAN,CAN,Vanek,Thomas,LW,"VAN, CBJ"
+1990/09/08,Hodonin,,CZE,CZE,Suter,Ryan,D,MIN
+1989/07/27,Ivry-sur-Seine,,FRA,FRA,Coburn,Braydon,D,TBL
+1993/07/11,Mississauga,ON,CAN,CAN,Phaneuf,Dion,D,"OTT, LAK"
+1986/04/25,Togliatti,,RUS,RUS,Carter,Jeff,C,LAK
+1995/02/09,Klagenfurt,,AUT,SWE,Brown,Dustin,RW,LAK
+1995/03/07,Grosse Pointe,MI,USA,USA,Seabrook,Brent,D,CHI
+1986/04/21,Ostersund,,SWE,SWE,Bernier,Steve,RW,NYI
+1994/11/30,Eisenstadt,,AUT,SVK,Parise,Zach,LW,MIN
+1995/03/02,Regina,SK,CAN,CAN,Fehr,Eric,C,"TOR, SJS"
+1995/07/04,Georgetown,ON,CAN,CAN,Getzlaf,Ryan,C,ANA
+1994/09/20,Hilton Head Isl.,SC,USA,USA,Martin,Matt,LW,TOR
+1995/08/05,Anaheim,CA,USA,USA,Kesler,Ryan,C,ANA
+1995/02/22,Orillia,ON,CAN,CAN,Boyle,Brian,C,NJD
+1995/04/20,New Haven,CT,USA,USA,Spurgeon,Jared,D,MIN
+1995/05/20,Arvika,,SWE,SWE,Barberio,Mark,D,COL
+1995/04/08,Northbrook,IL,USA,USA,Eaves,Patrick,RW,ANA
+1995/05/15,St. Petersburg,,RUS,RUS,Moore,Dominic,C,TOR
+1995/03/27,Repentigny,QC,CAN,CAN,Eriksson,Loui,LW,VAN
+1995/04/16,Cornwall,ON,CAN,CAN,Kruger,Marcus,C,CAR
+1995/02/08,Uppsala,,SWE,SWE,Thompson,Tage,C,STL
+1995/03/07,Bronxville,NY,USA,USA,Hunt,Brad,D,VGK
+1995/03/22,Delta,BC,CAN,CAN,Bouma,Lance,LW,CHI
+1994/12/01,Boras,,SWE,SWE,Bergeron,Patrice,C,BOS
+1995/05/09,Calgary,AB,CAN,CAN,Andersson,Rasmus,D,CGY
+1995/01/28,Stockholm,,SWE,SWE,Rinaldo,Zac,LW/C,ARI
+1995/07/01,Buffalo,NY,USA,USA,Weber,Shea,D,MTL
+1995/04/22,Winnipeg,MB,CAN,CAN,Wingels,Tommy,RW/C,"CHI, BOS"
+1995/07/04,Piikkio,,FIN,FIN,Sanheim,Travis,D,PHI
+1987/01/13,Thunder Bay,ON,CAN,CAN,Redmond,Zach,D,BUF
+1994/12/20,LaSalle,QC,CAN,CAN,Krug,Torey,D,BOS
+1995/02/24,Sudbury,ON,CAN,CAN,Mironov,Andrei,D,COL
+1985/01/30,Greenfield Park,QC,CAN,CAN,Malgin,Denis,C,FLA
+1985/03/21,Rochester,NY,USA,USA,Bartkowski,Matt,D,CGY
+1989/02/16,Toronto,ON,CAN,CAN,Hayes,Jimmy,RW,NJD
+1994/11/15,Tarrytown,NY,USA,USA,Lehtera,Jori,C,PHI
+1986/05/13,Lethbridge,AB,CAN,CAN,Stone,Michael,D,CGY
+1995/08/04,Ottawa,ON,CAN,CAN,Hartnell,Scott,LW,NSH
+1995/09/01,Halifax,NS,CAN,CAN,Hainsey,Ron,D,TOR
+1995/09/02,Tampere,,FIN,FIN,Kunitz,Chris,LW,TBL
+1995/03/28,Ste-Agathe,QC,CAN,CAN,Henrique,Adam,C,"NJD, ANA"
+1994/10/03,Arlington,TX,USA,USA,Orpik,Brooks,D,WSH
+1994/12/02,Boden,,SWE,SWE,Brickley,Daniel,D,LAK
+1994/10/12,Brampton,ON,CAN,CAN,McKenzie,Curtis,LW,DAL
+1995/02/04,Hamilton,ON,CAN,CAN,Poolman,Tucker,D,WPG
+1994/10/27,Turku,,FIN,FIN,Williams,Justin,RW,CAR
+1995/04/05,London,ON,CAN,CAN,Kronwall,Niklas,D,DET
+1995/07/12,Lac-Beauport,QC,CAN,CAN,Warsofsky,David,D,COL
+1995/03/02,Winnipeg,MB,CAN,CAN,Weise,Dale,RW,PHI
+1995/03/28,Calgary,AB,CAN,CAN,Lee,Anders,LW,NYI
+1994/09/22,Stockholm,,SWE,SWE,Brodie,TJ,D,CGY
+1994/10/06,Dauphin,MB,CAN,CAN,Nyquist,Gustav,RW,DET
+1995/04/16,Moscow,,RUS,RUS,Grant,Derek,C,ANA
+1995/02/02,Salmon Arm,BC,CAN,CAN,Calvert,Matt,LW,CBJ
+1995/03/21,Winterthur,,CHE,CHE,Martin,Paul,D,SJS
+1990/06/05,Prague,,CZE,CZE,Pateryn,Greg,D,DAL
+1994/09/16,Longueuil,QC,CAN,CAN,Staal,Eric,C,MIN
+1995/04/26,Laval,QC,CAN,CAN,Vanek,Thomas,LW,"VAN, CBJ"
+1988/05/11,Halifax,NS,CAN,CAN,Suter,Ryan,D,MIN
+1987/10/31,Buffalo,NY,USA,USA,Coburn,Braydon,D,TBL
+1994/02/08,Laval,QC,CAN,CAN,Phaneuf,Dion,D,"OTT, LAK"
+1994/02/18,Charlottetown,PE,CAN,CAN,Carter,Jeff,C,LAK
+1986/12/20,Kindersley,SK,CAN,CAN,Brown,Dustin,RW,LAK
+1994/12/26,Battleford,SK,CAN,CAN,Seabrook,Brent,D,CHI
+1991/11/14,Calgary,AB,CAN,CAN,Bernier,Steve,RW,NYI
+1996/08/26,Bonney Lake,WA,USA,USA,Parise,Zach,LW,MIN
+1988/04/28,Boston,MA,USA,USA,Fehr,Eric,C,"TOR, SJS"
+1994/01/05,Alton,IL,USA,USA,Getzlaf,Ryan,C,ANA
+1988/03/21,Bloomington,MN,USA,USA,Martin,Matt,LW,TOR
+1988/04/16,St. Paul,MN,USA,USA,Kesler,Ryan,C,ANA
+1996/01/26,Elk River,MN,USA,USA,Boyle,Brian,C,NJD
+1987/01/08,Salt Lake City,UT,USA,USA,Spurgeon,Jared,D,MIN
+1994/05/07,Burlington,ON,CAN,CAN,Barberio,Mark,D,COL
+1987/06/14,Toronto,ON,CAN,CAN,Eaves,Patrick,RW,ANA
+1987/01/23,Narva,,EST,FIN,Moore,Dominic,C,TOR
+1988/08/05,Fergus,ON,CAN,CAN,Eriksson,Loui,LW,VAN
+1990/11/13,New Westminster,BC,CAN,CAN,Kruger,Marcus,C,CAR
+1988/04/14,Saskatoon,SK,CAN,CAN,Thompson,Tage,C,STL
+1996/08/13,Laval,QC,CAN,CAN,Hunt,Brad,D,VGK
+1988/06/07,Vancouver,BC,CAN,CAN,Bouma,Lance,LW,CHI
+1985/08/17,Vancouver,BC,CAN,CAN,Bergeron,Patrice,C,BOS
+1992/02/26,Oulu,,FIN,FIN,Andersson,Rasmus,D,CGY
+1999/04/22,Vihti,,FIN,FIN,Rinaldo,Zac,LW/C,ARI
+1995/01/13,Moscow,,RUS,RUS,Weber,Shea,D,MTL
+1985/05/21,Warren,MI,USA,USA,Wingels,Tommy,RW/C,"CHI, BOS"
+1987/10/30,Toronto,ON,CAN,CAN,Sanheim,Travis,D,PHI
+1993/02/08,Medicine Hat,AB,CAN,CAN,Redmond,Zach,D,BUF
+1988/06/07,Windsor,ON,CAN,CAN,Krug,Torey,D,BOS
+1990/07/14,Burlington,ON,CAN,CAN,Mironov,Andrei,D,COL
+1987/11/12,Edmonton,AB,CAN,CAN,Malgin,Denis,C,FLA
+1994/12/09,Richmond Hill,ON,CAN,CAN,Bartkowski,Matt,D,CGY
+1996/10/03,Braintree,MA,USA,USA,Hayes,Jimmy,RW,NJD
+1987/11/18,Welland,ON,CAN,CAN,Lehtera,Jori,C,PHI
+1990/10/29,Lipetsk,,RUS,RUS,Stone,Michael,D,CGY
+1987/03/12,Cherepovets,,RUS,RUS,Hartnell,Scott,LW,NSH
+1987/09/03,Whitby,ON,CAN,CAN,Hainsey,Ron,D,TOR
+1994/10/07,Torrance,CA,USA,USA,Kunitz,Chris,LW,TBL
+1988/01/12,Hearst,ON,CAN,CAN,Henrique,Adam,C,"NJD, ANA"
+1980/06/05,Peterborough,ON,CAN,CAN,Orpik,Brooks,D,WSH
+1988/04/04,Montreal,QC,CAN,CAN,Brickley,Daniel,D,LAK
+1985/03/06,Toronto,ON,CAN,CAN,McKenzie,Curtis,LW,DAL
+1988/09/10,Thunder Bay,ON,CAN,CAN,Poolman,Tucker,D,WPG
+1986/12/06,Virginia,MN,USA,USA,Williams,Justin,RW,CAR
+1991/01/14,Toronto,ON,CAN,CAN,Kronwall,Niklas,D,DET
+1985/07/15,Prince Albert,SK,CAN,CAN,Warsofsky,David,D,COL
+1992/01/31,Brampton,ON,CAN,CAN,Weise,Dale,RW,PHI
+1980/06/04,Sorel,QC,CAN,CAN,Lee,Anders,LW,NYI
+1987/10/05,Villach,,AUT,AUT,Brodie,TJ,D,CGY
+1979/01/18,Rochester,NY,USA,USA,Nyquist,Gustav,RW,DET
+1987/10/02,Madison,WI,USA,USA,Grant,Derek,C,ANA
+1983/06/13,Toronto,ON,CAN,CAN,Calvert,Matt,LW,CBJ
+1986/03/15,Rødovre,,DNK,DNK,Martin,Paul,D,SJS
+1983/03/12,Turku,,FIN,FIN,Pateryn,Greg,D,DAL
+1988/02/16,Munich,,DEU,DEU,Staal,Eric,C,MIN
+1982/12/13,Smithers,BC,CAN,CAN,Vanek,Thomas,LW,"VAN, CBJ"
+1983/08/13,Pardubice,,CZE,CZE,Suter,Ryan,D,MIN
+1987/11/23,Gävle,,SWE,SWE,Coburn,Braydon,D,TBL
+1988/02/17,Kladno,,CZE,CZE,Phaneuf,Dion,D,"OTT, LAK"
+1986/05/07,Elk River,MN,USA,USA,Carter,Jeff,C,LAK
+1988/05/24,Yaroslavl,,RUS,RUS,Brown,Dustin,RW,LAK
+1988/02/19,Mississauga,ON,CAN,CAN,Seabrook,Brent,D,CHI
+1987/11/29,Victoria,BC,CAN,CAN,Bernier,Steve,RW,NYI
+1986/07/14,Magnitogorsk,,RUS,RUS,Parise,Zach,LW,MIN
+1986/09/07,Judique,NS,CAN,CAN,Fehr,Eric,C,"TOR, SJS"
+1998/06/25,Nizhnekamsk,,RUS,RUS,Getzlaf,Ryan,C,ANA
+1982/06/08,Toronto,ON,CAN,CAN,Martin,Matt,LW,TOR
