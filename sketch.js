@@ -14,29 +14,42 @@ const options = {
 
 function preload(){
     hockeyplayers = loadTable('/hockeydata.csv', 'header');
+    cities = loadTable('/cityLatLng.csv','header');
 }
 
 function setup(){
     canvas = createCanvas(640,640);
     
-    /*
+    
     for(let row of hockeyplayers.rows){
-        let team = row.get('Team');
+        let homeTown = row.get('City');
+        findCity(homeTown);
         
-        if(team.indexOf("VGK") != -1){
-            let name = row.get('FN') + " " + row.get('LN');
-        console.log(name);
-        } 
-    }*/
+    }
     //background(100);
 
     map = mappa.tileMap(options);
     map.overlay(canvas);
+    //map.onChange(drawMarkers);
 
 }
 
 function draw(){
     clear();
+    const pos = map.latLngToPixel(42.3016,-71.0676);
+    fill(255,0,0);
+    ellipse(pos.x,pos.y,5,5);
 
+}
+function drawMarkers(){
+    
+}
 
+function findCity(homeTown){
+    for(let col of cities.getColumn('City')){
+        if(col === homeTown){
+            console.log('Found City: ', col);
+            return col;
+        }
+    }
 }
