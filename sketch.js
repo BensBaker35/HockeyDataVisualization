@@ -1,4 +1,3 @@
-
 let hockeyplayers;
 let map;
 
@@ -12,44 +11,94 @@ const options = {
 }
 
 
-function preload(){
+function preload() {
     hockeyplayers = loadTable('/hockeydata.csv', 'header');
-    cities = loadTable('/cityLatLng.csv','header');
+    cities = loadTable('/cityLatLng.csv', 'header');
 }
 
-function setup(){
-    canvas = createCanvas(640,640);
-    
-    
-    for(let row of hockeyplayers.rows){
-        let homeTown = row.get('City');
-        findCity(homeTown);
-        
-    }
+function setup() {
+    var canvas = createCanvas(640, 640);
+
     //background(100);
 
     map = mappa.tileMap(options);
     map.overlay(canvas);
-    //map.onChange(drawMarkers);
+    map.onChange(drawMarkers);
 
 }
 
-function draw(){
-    clear();
-    const pos = map.latLngToPixel(42.3016,-71.0676);
-    fill(255,0,0);
-    ellipse(pos.x,pos.y,5,5);
+function draw() {
+
+
 
 }
-function drawMarkers(){
+
+function drawMarkers() {
     
-}
+    clear();
+    for (let row of hockeyplayers.rows) {
+        let homeTown = row.get('City');
+        let homeCntry = row.get('Cntry');
+        //console.log(row);
+        var cityData = findCity(homeTown, homeCntry);
 
-function findCity(homeTown){
-    for(let col of cities.getColumn('City')){
-        if(col === homeTown){
-            console.log('Found City: ', col);
-            return col;
+        if (map.map.getBounds().contains({
+                lat: cityData.lat,
+                lng: cityData.lng
+            })) {
+
+            const pos = map.latLngToPixel(cityData.lat, cityData.lng);
+            if (false) {
+
+            } else {
+
+                fill(255, 0, 0);
+                ellipse(pos.x, pos.y, 10, 10);
+                //console.log(cityData);
+            }
+
         }
+
     }
 }
+
+function findCity(homeTown, hcntry) {
+    for (let row of cities.rows) {
+        var city = row.get('City');
+        var cntry = row.get('Cntry');
+        //console.log(city,cntry);
+        if (city === homeTown && cntry === hcntry) {
+            var latlng = {
+                lat: row.get('lat'),
+                lng: row.get('lng')
+            }
+            return latlng;
+        }
+
+    }
+    throw new Error("Cant find " + homeTown + ", " + hcntry);
+}
+
+
+function getTeamColor(team) {
+    switch (team) {
+        case 'CHI':
+
+            return (255, 0, 0);
+            break;
+        case 'VGK':
+
+            return (10, 255, 255);
+            break;
+        default:
+            return (0, 0, 255);
+            break;
+    }
+}
+
+// function mouseClicked(){
+//     console.log(mouseX);
+//     console.log(mouseY);
+//     const position = map.pixelToLatlng(mouseX, mouseY);
+//     console.log(position);
+// }

@@ -13,18 +13,18 @@ var options2 = {
     formatter: null
 }
 
-var geocoder = NodeGeocoder(options2);
+var geocoder = NodeGeocoder(options);
 var testCity = {
-    name:"Naperville",
-    stPv: "IL",
-    cntry: "USA",
+    name:"Ancienne-Lorette",
+    stPv: "QC",
+    cntry: "CA",
     lat: '',
     lng: ''
 }
 
-//geocoder.geocode(cityNameData(testCity),(err,data) => catch(data)).then(console.log(data));
+geocoder.geocode(cityNameData(testCity),(err,data) => console.log(data));
 //let temp2 = await temp.json;
-console.log(temp2);
+//console.log(temp2);
 
 
 function cityAsString(city){
