@@ -18,7 +18,6 @@ function preload() {
 
 function setup() {
     var canvas = createCanvas(640, 640);
-
     //background(100);
 
     map = mappa.tileMap(options);
@@ -58,35 +57,12 @@ function drawMarkers() {
                 lng: cityData.lng
             })) {
             const pos = map.latLngToPixel(cityData.lat, cityData.lng);
-            fill(255, 0, 0);
+            var color = playerAmountAsColor(cityData.bornHere);
+            fill(color[0],color[1],color[2]);
             ellipse(pos.x, pos.y, 10, 10);
             console.log(cityData);
         }
     }
-    // for (let row of hockeyplayers.rows) {
-    //     let homeTown = row.get('City');
-    //     let homeCntry = row.get('Cntry');
-    //     //console.log(row);
-    //     var cityData = findCity(homeTown, homeCntry);
-
-    //     if (map.map.getBounds().contains({
-    //             lat: cityData.lat,
-    //             lng: cityData.lng
-    //         })) {
-
-    //         const pos = map.latLngToPixel(cityData.lat, cityData.lng);
-    //         if (false) {
-
-    //         } else {
-
-    //             fill(255, 0, 0);
-    //             ellipse(pos.x, pos.y, 10, 10);
-    //             //console.log(cityData);
-    //         }
-
-    //     }
-
-    // }
 }
 
 function findCity(homeTown, hcntry) {
@@ -117,6 +93,21 @@ function getPlayersBornIn(city, cntry) {
     }
 
     return playersBornHere;
+}
+
+function playerAmountAsColor(playerArray){
+    if(playerArray.length > 3 && playerArray.length <= 5){
+        return [125,25,0];
+    }
+    else if (playerArray.length > 5 && playerArray.length < 10){
+        return [215,50,0];
+    }
+    else if(playerArray.length >= 10){
+        return [255,75,0];
+    }
+    else{
+        return [85,0,0];
+    }
 }
 
 
