@@ -1,3 +1,6 @@
-canvas{
-    align-self: center;
+.tableContainer{
+    height: 320px;
+    widows: 640px;
+    overflow: auto;
+    
 }

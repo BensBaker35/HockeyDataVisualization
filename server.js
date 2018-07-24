@@ -10,7 +10,7 @@ console.log("Starting web server at " + serverUrl + ":" + port);
 
 http.createServer( function(req, res) {
 
-	
+
 
 	var filename = req.url || "index.html";
 	var ext = path.extname(filename);
@@ -25,7 +25,8 @@ http.createServer( function(req, res) {
 		".png": "image/png",
         ".xls": "application/excel",
         ".ico": "image/ico",
-        ".csv": "application/excel"
+		".csv": "application/excel",
+		".ejs": "text/html"
 	};
 
 	var validMimeType = true;

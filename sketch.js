@@ -1,6 +1,8 @@
+let teamColors;
 let hockeyplayers;
 let map;
 let birthPlaces = [];
+let birthPlacesTable;
 const mappa = new Mappa('Leaflet');
 
 const options = {
@@ -13,12 +15,13 @@ const options = {
 
 function preload() {
     hockeyplayers = loadTable('/hockeydata.csv', 'header');
+    teamColors = loadTable('/teamColorData.csv', 'header');
     cities = loadTable('/cityLatLng.csv', 'header');
 }
 
 function setup() {
     var canvas = createCanvas(640, 640);
-    //background(100);
+
 
     map = mappa.tileMap(options);
     map.overlay(canvas);
@@ -36,17 +39,17 @@ function setup() {
         }
         birthPlaces.push(birthPlace);
     }
-    //console.log(birthPlaces);
+
+
 }
 
-// function draw() {
-// }
+
 
 function drawMarkers() {
 
     clear();
-    for (let row of cities.rows) {
-
+    for (var i = 0; i < cities.rows.length; i++) {
+        var row = cities.rows[i];
         let homeTown = row.get('City');
         let homeCntry = row.get('Cntry');
 
@@ -58,9 +61,12 @@ function drawMarkers() {
             })) {
             const pos = map.latLngToPixel(cityData.lat, cityData.lng);
             var color = playerAmountAsColor(cityData.bornHere);
-            fill(color[0],color[1],color[2]);
+            fill(color[0], color[1], color[2]);
             ellipse(pos.x, pos.y, 10, 10);
-            console.log(cityData);
+            displayShownBirthplaces(cityData, i);
+            // console.log(cityData);
+        } else {
+            removeBirthPlace(i);
         }
     }
 }
@@ -95,25 +101,66 @@ function getPlayersBornIn(city, cntry) {
     return playersBornHere;
 }
 
-function playerAmountAsColor(playerArray){
-    if(playerArray.length > 3 && playerArray.length <= 5){
-        return [125,25,0];
-    }
-    else if (playerArray.length > 5 && playerArray.length < 10){
-        return [215,50,0];
-    }
-    else if(playerArray.length >= 10){
-        return [255,75,0];
-    }
-    else{
-        return [85,0,0];
+function playerAmountAsColor(playerArray) {
+    if (playerArray.length > 3 && playerArray.length <= 5) {
+        return [125, 25, 0];
+    } else if (playerArray.length > 5 && playerArray.length < 10) {
+        return [215, 50, 0];
+    } else if (playerArray.length >= 10) {
+        return [255, 75, 0];
+    } else {
+        return [85, 0, 0];
     }
 }
 
+function displayShownBirthplaces(homeCity, i) {
+    var table = document.getElementById("dataTable");
 
-// function mouseClicked(){
-//     console.log(mouseX);
-//     console.log(mouseY);
-//     const position = map.pixelToLatlng(mouseX, mouseY);
-//     console.log(position);
-// }
+
+    if (document.getElementById(i) === null) {
+        table.insertRow(table.rows.length).outerHTML = "<tr id = " + i + "><td id = " + i + "> " + homeCity.name + "</td>" +
+            "<td>" + formatPlayers(homeCity.bornHere) + "</td></tr>";
+    }
+}
+
+function formatPlayers(bornHere) {
+    var playerCell = "";
+    for (var i = 0; i < bornHere.length; i++) {
+        var player = bornHere[i];
+        var col = getTeamColor(player.Team);
+        playerCell += "<span style = color:rgb(" + col[0] + "," + col[1] + "," + col[2] + ")> Name: " +
+            player.FName + " " + player.LName + ", Birth Day: " + player.BDate + ", Team(s): " +
+            player.Team + ", Position: " + player.Pos + "</span>\r\n";
+    }
+    return playerCell;
+}
+
+function removeBirthPlace(i) {
+
+
+    var row = document.getElementById(i);
+    if (document.getElementById(i) != null)
+        row.outerHTML = "";
+
+    
+}
+
+function getTeamColor(team) {
+    
+    var teamData = team;
+
+    if (teamData.length > 3) {
+        var teamArr = teamData.substr(teamData.lastIndexOf(" ") + 1,3);
+        //teamArr.replace(" ","");
+        teamData = teamArr;
+
+    }
+    var color;
+    for (let row of teamColors.rows) {
+
+        if (row.get('Team') == teamData) {
+            color = [row.get('r'), row.get('g'), row.get('b')];
+            return color;
+        }
+    }
+}
