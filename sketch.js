@@ -42,9 +42,10 @@ function setup() {
 
 
 }
-
-
-
+/*
+    Algorithm
+    logic based
+*/
 function drawMarkers() {
 
     clear();
@@ -53,7 +54,7 @@ function drawMarkers() {
         let homeTown = row.get('City');
         let homeCntry = row.get('Cntry');
 
-        var cityData = findCity(homeTown, homeCntry);
+        var cityData = findCity(homeTown, homeCntry);//Sub function 1
 
         if (map.map.getBounds().contains({
                 lat: cityData.lat,
@@ -63,7 +64,7 @@ function drawMarkers() {
             var color = playerAmountAsColor(cityData.bornHere);
             fill(color[0], color[1], color[2]);
             ellipse(pos.x, pos.y, 10, 10);
-            displayShownBirthplaces(cityData, i);
+            displayShownBirthplaces(cityData, i);//Sub function 2
             // console.log(cityData);
         } else {
             removeBirthPlace(i);
@@ -122,7 +123,11 @@ function displayShownBirthplaces(homeCity, i) {
             "<td>" + formatPlayers(homeCity.bornHere) + "</td></tr>";
     }
 }
-
+/*
+        Abstraction
+Helps manage complexity by allowing me to draw a variable amount of players in the 
+table.
+*/
 function formatPlayers(bornHere) {
     var playerCell = "";
     for (var i = 0; i < bornHere.length; i++) {
