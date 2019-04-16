@@ -123,11 +123,6 @@ function displayShownBirthplaces(homeCity, i) {
             "<td>" + formatPlayers(homeCity.bornHere) + "</td></tr>";
     }
 }
-/*
-        Abstraction
-Helps manage complexity by allowing me to draw a variable amount of players in the 
-table.
-*/
 function formatPlayers(bornHere) {
     var playerCell = "";
     for (var i = 0; i < bornHere.length; i++) {
@@ -150,6 +145,10 @@ function removeBirthPlace(i) {
     
 }
 
+/*
+        Abstraction
+Makes it easy to find the color of the team
+*/
 function getTeamColor(team) {
     
     var teamData = team;
